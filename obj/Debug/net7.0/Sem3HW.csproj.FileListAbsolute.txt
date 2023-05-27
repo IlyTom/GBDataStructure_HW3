@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\bin\Debug\net7.0\Sem3HW.exe
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\bin\Debug\net7.0\Sem3HW.deps.json
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\bin\Debug\net7.0\Sem3HW.runtimeconfig.json
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\bin\Debug\net7.0\Sem3HW.dll
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\bin\Debug\net7.0\Sem3HW.pdb
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\Sem3HW.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\Sem3HW.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\Sem3HW.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\Sem3HW.AssemblyInfo.cs
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\Sem3HW.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\Sem3HW.dll
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\refint\Sem3HW.dll
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\Sem3HW.pdb
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\Sem3HW.genruntimeconfig.cache
+C:\Users\User\Desktop\AlgorytmStructure\Sem3HW\obj\Debug\net7.0\ref\Sem3HW.dll
